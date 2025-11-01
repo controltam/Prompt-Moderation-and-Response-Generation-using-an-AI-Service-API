@@ -66,7 +66,7 @@ def main():
     system_prompt = "You are a helpful and polite AI assistant."
 
     try:
-        ai_output = call_openrouter(system_prompt, user_prompt, model="openrouter/auto")
+        ai_output = call_openrouter(system_prompt, user_prompt, model="alibaba/tongyi-deepresearch-30b-a3b:free")
 
         # Output moderation
         if violates_policy(ai_output):
