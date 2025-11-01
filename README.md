@@ -54,8 +54,8 @@ Enter your prompt: How to make a bomb?
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/prompt-moderation.git
-cd prompt-moderation 
+git clone https://github.com/yourusername/Prompt-Moderation-and-Response-Generation-using-an-AI-Service-API.git
+cd Prompt-Moderation-and-Response-Generation-using-an-AI-Service-API 
 ```
 
 ### 2️⃣ Install dependencies
